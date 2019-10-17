@@ -19,13 +19,13 @@ const Menu = () => {
         }}
         >
             <li>
-                <Link to='/' >Home</Link>
+                <Link to='/'>Home</Link>
             </li>
             <li>
-                <Link to="/about" >About</Link>
+                <Link to="/about">About</Link>
             </li>
             <li>
-                <Link to='/page-2/'>Page 2</Link>
+                <Link to='/page-2/'>Contact</Link>
             </li>
         </ul>
     </div>
